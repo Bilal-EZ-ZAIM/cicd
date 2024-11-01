@@ -3,7 +3,7 @@ const app = express();
 app.get('/', (req, res) => {
     res.json({
         status:200,
-        message: 'Hello World from Express JS and Node JS'
+        message: '5adam'
     });
 });
 
